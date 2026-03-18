@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🔭  I’m currently working on something cool 😉
-- 🌱  I’m currently building Sagely
+- 🌱  I’m currently building [Sagely] (https://getsagely.co/)
 - 💬  Ask me about anything, I am happy to help
-- 👨‍💻  I'm the Lead Software Engineer at[ Ronin & Co.](https://www.roninand.co/)
 
 
